@@ -1,2 +1,3 @@
 # geostats18_test
-public repository for testing
+
+This is a public git repository on github meant for testing in the geostatistics course at the University of Tübingen during the summer term 2018.
